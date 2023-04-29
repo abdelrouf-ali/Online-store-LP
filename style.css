@@ -150,22 +150,22 @@ ul li a{
     height: 80%;
 }
 .product1{
-    background-image: url(./images/product-06-a.jpg);
+    background-image: url(./product-06-a.jpg);
     background-position: center;
     background-size: cover;  
 }
 .product2{
-    background-image: url(./images/product-09-a.jpg);
+    background-image: url(./product-09-a.jpg);
     background-position: center;
     background-size: cover;  
 }
 .product3{
-    background-image: url(./images/product-10-a.jpg);
+    background-image: url(./product-10-a.jpg);
     background-position: center;
     background-size: cover;  
 }
 .product4{
-    background-image: url(./images/product-08-a.jpg);
+    background-image: url(./product-08-a.jpg);
     background-position: center;
     background-size: cover;  
 }
@@ -213,7 +213,7 @@ ul li a{
 }
 .bg-image{
     margin: 50px;
-    background-image: url('./images/bg-01\ \(1\).jpg');
+    background-image: url('./bg-01\ \(1\).jpg');
     background-attachment: fixed;
     background-size: cover;
     height: 800px;
@@ -280,22 +280,22 @@ ul li a{
     font-weight: 600; 
 }
 .sale1{
-    background-image: url(./images/product-01-a.jpg);
+    background-image: url(./product-01-a.jpg);
     background-position: center;
     background-size: cover;  
 }
 .sale2{
-    background-image: url(./images/product-05-a.jpg);
+    background-image: url(./product-05-a.jpg);
     background-position: center;
     background-size: cover;  
 }
 .sale3{
-    background-image: url(./images/product-03-a.jpg);
+    background-image: url(./product-03-a.jpg);
     background-position: center;
     background-size: cover;  
 }
 .sale4{
-    background-image: url(./images/product-08-a.jpg);
+    background-image: url(./product-08-a.jpg);
     background-position: center;
     background-size: cover;  
 }
@@ -316,14 +316,14 @@ ul li a{
 }
 
 .Category1 {
-    background-image: url(./images/cat-men-300x300.jpg);
+    background-image: url(./cat-men-300x300.jpg);
     width: 560px;
     height: 550px;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .Category2{
-    background-image: url(./images/cat-women-300x300.jpg);
+    background-image: url(./cat-women-300x300.jpg);
     width: 560px;
     height: 550px;
     background-repeat: no-repeat;
